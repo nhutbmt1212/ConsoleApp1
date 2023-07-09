@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("dòng 1");
             Console.WriteLine("dòng 2");
+            Console.WriteLine("thêm dòng 3");
         }
     }
 }
